@@ -1,3 +1,4 @@
+![pep assignment 2](https://user-images.githubusercontent.com/91388079/215725962-db472cc0-663d-45c6-90da-8714a0f70223.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
